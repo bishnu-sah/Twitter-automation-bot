@@ -75,12 +75,6 @@ TWITTER_API_SECRET=
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
----
-
 ## 👨‍💻 Author
 
 Bishnu Sah
